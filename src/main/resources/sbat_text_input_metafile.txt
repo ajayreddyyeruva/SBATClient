@@ -1,4 +1,2 @@
-openUrl http://mail.yahoo.com
-textBoxInput //*[@id="username"] test
-textBoxInput //*[@id="passwd"] test
+openUrl http://www.flipkart.com/
 
