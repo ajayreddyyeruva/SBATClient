@@ -1,0 +1,3 @@
+openUrl http://wwww.snapdeal.com
+clickElement .//*[@id='skipmail']
+verifyTextPresent  across the country.
