@@ -1,0 +1,4 @@
+openUrl http://wwww.snapdeal.com
+clickElement .//*[@id='skipmail']
+assertElementText  .//*[@id='leftNavNemu']/div[1]/ul/li[5]/a Appli.ances
+clickElement html/body/div[7]/div[2]/div/div[9]/a

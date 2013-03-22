@@ -13,6 +13,8 @@ public class SBATFileExecutorClient {
 //	    sbatExecutor.execute(new File("src/main/resources/sbat_mouse_hover_metafile.txt"));
 //      sbatExecutor.execute(new File("src/main/resources/sbat_complete_test_metafile.txt"));
 //		sbatExecutor.execute(new File("src/main/resources/sbat_verify_text_present_metafile.txt"));
-	    sbatExecutor.execute(new File("src/main/resources/sbat_assert_text_present_metafile.txt"));
+//	    sbatExecutor.execute(new File("src/main/resources/sbat_assert_text_present_metafile.txt"));
+//		sbatExecutor.execute(new File("src/main/resources/sbat_verify_element_text_metafile.txt"));
+		sbatExecutor.execute(new File("src/main/resources/sbat_assert_element_text_metafile.txt"));
 	}
 }

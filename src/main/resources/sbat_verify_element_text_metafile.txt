@@ -1,0 +1,3 @@
+openUrl http://wwww.snapdeal.com
+clickElement .//*[@id='skipmail']
+verifyElementText  .//*[@id='leftNavNemu']/div[1]/ul/li[5]/a Appliancess
