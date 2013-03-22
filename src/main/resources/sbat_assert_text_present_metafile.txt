@@ -1,0 +1,4 @@
+openUrl http://wwww.snapdeal.com
+clickElement .//*[@id='skipmail']
+assertTextPresent  across the country.
+openUrl http://wwww.snapdeal.com
