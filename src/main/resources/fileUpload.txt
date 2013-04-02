@@ -1,0 +1,6 @@
+initialization firefox web
+openUrl http://www.pdfonline.com/convert-pdf/
+clickElement .//*[@id='upload-link']
+textBoxInput .//*[@id='fileUpload'] /home/gaurav/Placement/snapdeal/resume gk/gaurav_kaushik.rtf
+clickElement html/body/div[3]/div[3]/div/button[1]
+wait 70

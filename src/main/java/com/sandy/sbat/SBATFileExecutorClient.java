@@ -6,7 +6,7 @@ public class SBATFileExecutorClient {
 
 	public static void main(String[] args) {
 		SBATExecutor sbatExecutor = new SBATExecutor();
-		
-		sbatExecutor.execute(new File("src/main/resources/sbat_verify_all_links_metafile.txt"));
+//		sbatExecutor.execute(new File("src/main/resources/test.txt"));
+		sbatExecutor.execute(new File("src/main/resources/fileUpload.txt"));
 	}
 }

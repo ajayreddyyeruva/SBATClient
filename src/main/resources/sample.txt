@@ -1,0 +1,8 @@
+initialization firefox android
+openUrl http://www.snapdeal.com
+clickElement .//*[@id='skipmail']
+wait 10
+textBoxInput .//*[@id='keyword'] roxii casual shoes
+clickElement .//*[@id='submitDealsNearMeExplore']
+loadCompletePage null
+verifyAllImages null

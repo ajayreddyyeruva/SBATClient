@@ -1,0 +1,3 @@
+initialization firefox android
+openUrl http://www.snapdeal.com/search?keyword=roxii+shoes&catId=0&categoryId=254&suggested=false&vertical=p&noOfResults=20&clickSrc=searchOnSubCat&lastKeyword=roxii+shoes&prodCatId=&changeBackToAll=false&foundInAll=false&categoryIdSearched=&url=&utmContent=&catalogID=&dealDetail=
+verifyAllImages null
