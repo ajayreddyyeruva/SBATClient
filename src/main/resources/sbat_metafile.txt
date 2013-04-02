@@ -1,4 +1,0 @@
-openUrl http://yahoo.com
-openUrl www.snapdeal.com
-openUrl http://google.com
-openUrl http://mail.yahoo.com
