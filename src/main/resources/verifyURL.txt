@@ -1,0 +1,5 @@
+initialization firefox web
+openUrl http://www.snapdeal.com
+clickElement .//*[@id='skipmail']
+wait 10
+verifyURL http://www.snapdeal.com
