@@ -1,0 +1,19 @@
+initialization firefox web
+openUrl http://site.release.snapdeal.com:9050/
+clickElement .//*[@id='content_wrapper']/div/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div/a/div[2]/h2
+clickElement .//*[@id='prodImage-94958']
+clickElement .//*[@id='94958']
+textBoxInput .//*[@id='select'] 3
+clickElement .//*[@id='cart-layout-div']/div/div/div[3]/div/div[1]/span/a
+textBoxInput .//*[@id='customer-info-form']/div[2]/div[2]/input Gaurav Kaushik
+textBoxInput .//*[@id='customer-info-form']/div[2]/div[3]/input gaurav.kaushik@jasperindia.com
+textBoxInput .//*[@id='customer-info-form']/div[2]/div[4]/input 9555174872
+clickElement .//*[@id='customer-info-continue']
+textBoxInput .//*[@id='address-line1'] abc xyz
+textBoxInput .//*[@id='address-city'] hmh
+textBoxInput .//*[@id='address-state'] rajasthan	
+textBoxInput .//*[@id='zipcode'] 335512
+clickElement .//*[@id='delivery-modes-continue']
+clickElement .//*[@id='order-summary-continue']
+clickElement .//*[@id='payment-modes']/div[4]/input
+clickElement .//*[@id='payment-continue']
